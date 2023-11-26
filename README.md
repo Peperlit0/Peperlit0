@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Peperlit0. French guy in Paris.
+- 👀 I’m interested in basic tools for media publishing such as websites, blogs etc. Also interested in hosting, data storing and sharing through NAS. 
+- 🌱 I’m currently learning domains management, markdown and html.
+- 📫 How to reach me: here and through Mastodon, cf. @peperlito@boitam.eu
